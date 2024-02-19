@@ -1,3 +1,3 @@
 # demoRepository
 first repository 
-author : sachin awasthi
+author : Sachin Awasthi
